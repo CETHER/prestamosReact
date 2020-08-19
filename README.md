@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,7 +66,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
 # prestamosReact
 Aplicación que calcula el monsto de prestamos a diferentes plazos
->>>>>>> a12854db3f782f8a08f21350591131b4b2d49234
